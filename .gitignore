@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow .c files
+!*.c
+
+# Allow .pdf files
+!*.pdf
+
+# Allow folders
+!*/
+
+# Except for these specific files and folders
+!.gitignore
